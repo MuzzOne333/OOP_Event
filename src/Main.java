@@ -5,8 +5,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
 
-        Organizer organizer = new Organizer("John Doe", "123-456-789");
-        SpecialEvent event = new SpecialEvent("Tech Conference", "2025-01-15", "Main Hall", organizer);
+        Organizer organizer = new Organizer("Muzaffar Kapezov", "123-456-789");
+        SpecialEvent event = new SpecialEvent("Tech Conference", "21-06-2077", "Main Hall", organizer);
 
 
         while (true) {
